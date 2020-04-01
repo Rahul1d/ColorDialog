@@ -108,7 +108,6 @@ new PromptDialog(this)
 
 ![](https://github.com/andyxialm/ColorDialog/blob/master/art/Screenshot_type_warning.png?raw=true)
 
-
 * ColorDialog Text Mode
 
 ![](https://github.com/andyxialm/ColorDialog/blob/master/art/Screenshot_text.png?raw=true)
@@ -120,6 +119,16 @@ new PromptDialog(this)
 * ColorDialog Text&Image Mode
 
 ![](https://github.com/andyxialm/ColorDialog/blob/master/art/Screenshot_imgtext.png?raw=true)
+
+
+
+Added :
+
+
+* PromptDialog Edit Text
+
+![](https://github.com/Rahul1d/ColorDialog/blob/master/art/Screenshot_type_edit.jpeg?raw=true)
+
 
 
 #License
